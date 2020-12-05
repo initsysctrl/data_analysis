@@ -7,4 +7,5 @@ import numpy as np
 
 arr = np.arange(0, 15).reshape(5, 3)
 print(arr)
+
 print(arr[arr[:, 0] > 1])

@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/yepeng/anaconda3/envs/deve/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pycodestyleEnabled": false
+}
