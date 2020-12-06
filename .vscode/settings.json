@@ -1,6 +1,6 @@
 {
-    "python.pythonPath": "/Users/yepeng/anaconda3/envs/deve/bin/python",
+    "python.pythonPath": "/Users/yepeng/python_project/data-analysis/env/bin/python3",
     "python.linting.enabled": true,
-    "python.linting.pylintEnabled": true,
-    "python.linting.pycodestyleEnabled": false
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": true
 }

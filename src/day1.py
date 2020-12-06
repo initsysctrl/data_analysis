@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time : 2020/11/17 下午10:19
 # @Author : Yepeng
-# @Site : 
+# @Site :
 # @Describe :
 import numpy as np
 import pandas as pd
@@ -11,7 +11,6 @@ import numpy.matlib as mt
 arr = np.array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
 # 随机数创建矩阵
 arr = np.random.rand(4, 3)
-arr = np.random.random(10)
 
 arr = np.random.randint(0, 10, 12).reshape(3, 4)
 arr = np.array(np.arange(0, 12)).reshape(3, 4)

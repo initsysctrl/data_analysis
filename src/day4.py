@@ -1,5 +1,10 @@
-import pandas as pd
 import numpy as np
+import pandas as pd
+
+print(np.array([[1, 2, 3], [2, 3, 4]]))
+
+df = pd.DataFrame()
+print(df.shape)
 
 
 def hello():
