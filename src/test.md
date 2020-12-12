@@ -13,3 +13,4 @@
 $$
 \left[\begin{array}{l}a \\ c\end{array}\right] \cdot\left\lfloor\begin{array}{l}b \\ d\end{array}\right]=a b+c d
 $$
+![](https://tva1.sinaimg.cn/large/0081Kckwgy1glem43352lj311a0t8q4l.jpg)

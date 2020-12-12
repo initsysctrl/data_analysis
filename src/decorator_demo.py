@@ -2,6 +2,25 @@ import time
 import functools
 
 
+def you_decorator(func):
+    @functools.wraps(func)
+    def wrapper(*args, **kwargs):
+        # do something
+        result = func(*args, **kwargs)
+        # do something
+        return result
+    return wrapper
+
+
+@you_decorator
+def you_func(*args, **kwargs):
+    # do something
+    pass
+
+
+var = you_func()
+
+
 def timer_super(max_time=1):  # 在原装饰器上继续套娃，增加装饰器参数
     def timer(func):
         @functools.wraps(func)
