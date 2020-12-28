@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time : 2020/11/19 下午9:53
 # @Author : Yepeng
-# @Site : 
+# @Site :
 # @Describe :广播
 import numpy as np
 import numpy.matlib as mt
@@ -29,4 +29,5 @@ print(e)
 x = np.random.rand(3, 2)
 print(x)
 # deede
+
 # dedee
