@@ -28,6 +28,12 @@ e = np.arange(1, 10, 2)
 print(e)
 x = np.random.rand(3, 2)
 print(x)
-# deede
-
-# dedee
+def fun1():
+    pass
+def fun2():
+    pass
+def fun3():
+    fun1()
+    pass
+fun1()
+np.array([1,2,3])
