@@ -6,7 +6,8 @@ import matplotlib.pyplot as plt
 g = 0.98
 # 单摆长度
 L = 2
-# 空气阻力系数
+# 空气阻力系数3b
+
 mu = 0.1
 # 初始角度
 THEAT_0 = np.pi/3
